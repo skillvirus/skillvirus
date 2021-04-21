@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskillvirus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/skillvirus?style=flat-square)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskillvirus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) ![GitHub followers](https://img.shields.io/github/followers/skillvirus?style=flat-square) ![GitHub User's stars](https://img.shields.io/github/stars/skillvirus?color=yellow&style=flat-square)
 
 ## Hello! my name is Song Myounggyu
 
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 > These days are devoted to helping people who need to share the information that I know of.   
 > I aim to be someone who can influence and change someone.   
 
-#### Technical Stack
+### Technical Stack
 ![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/stars/bbpress?color=green&label=C%23&style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/SQL-★★★★☆-blue?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/JAVA-★★★★☆-yellow?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/Python-★★★☆☆-orange?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/HTML-★★★★☆-9cf?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/JavaScript-★★★☆☆-blueviolet?style=flat-square)    
 
-#### Contcts
+### Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aeugo19760408@gmail.com)](mailto:aeugo19760408@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/myeonggyu.song)](https://www.facebook.com/myeonggyu.song)
   
