@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 > "skillvirus" means to spread skills and knowledge as widespread as a virus.   
 
 ### Technical Stack
-![WordPress Plugin Rating](https://img.shields.io/badge/C%23-★★★★☆-green?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/SQL-★★★★☆-blue?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/JAVA-★★★★☆-yellow?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/Python-★★★☆☆-orange?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/HTML-★★★★☆-9cf?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/JavaScript-★★★☆☆-blueviolet?style=flat-square)    
+![WordPress Plugin Rating](https://img.shields.io/badge/C%23-★★★★☆-green?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/MSSQL-★★★★☆-blue?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/JAVA-★★★★☆-yellow?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/Python-★★★☆☆-orange?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/HTML-★★★★☆-9cf?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/JavaScript-★★★☆☆-blueviolet?style=flat-square)    
 
 ### Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skillvirus00@gmail.com)](mailto:skillvirus00@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/myeonggyu.song)](https://www.facebook.com/myeonggyu.song)
