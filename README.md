@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 > The main languages are C# and MSSQL queries, Improvement of work process is of utmost concern.   
 > These days are devoted to helping people who need to share the information that I know of.   
 > I aim to be someone who can influence and change someone.   
-> "skillvirus" means trying to spread skills and knowledge as widespread as a virus.   
+> "skillvirus" means to spread skills and knowledge as widespread as a virus.   
 
 ### Technical Stack
 ![WordPress Plugin Rating](https://img.shields.io/badge/C%23-★★★★☆-green?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/SQL-★★★★☆-blue?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/JAVA-★★★★☆-yellow?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/Python-★★★☆☆-orange?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/HTML-★★★★☆-9cf?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/JavaScript-★★★☆☆-blueviolet?style=flat-square)    
