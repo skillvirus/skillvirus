@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 #### Technical Stack
 ![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/stars/bbpress?color=green&label=C%23&style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/SQL-★★★★☆-blue?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/JAVA-★★★★☆-yellow?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/Python-★★★☆☆-orange?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/HTML-★★★★☆-9cf?style=flat-square) ![WordPress Plugin Rating](https://img.shields.io/badge/JavaScript-★★★☆☆-blueviolet?style=flat-square)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skillvirus)](https://github.com/anuraghazra/github-readme-stats)
