@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hello! my name is Song Myounggyu
 
 > I majored in computer engineering in college.   
-> Since 2008, it has been maintaining ERP (SAP Business One).   
+> Since 2008, it has been maintaining ERP.   
 > The main languages are C# and MSSQL queries, Improvement of work process is of utmost concern.   
 > These days are devoted to helping people who need to share the information that I know of.   
 > I aim to be someone who can influence and change someone.   
